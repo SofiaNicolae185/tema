@@ -1,2 +1,3 @@
 Acestea sunt exercitiile:
 1.a+b=
+2.a-b=
